@@ -103,6 +103,7 @@ Confusion matrices and learning curves were generated for detailed error analysi
 ## Tech Stack
 
 - **Python**
+- **Pytorch**
 - **TensorFlow / Keras**
 - **NumPy, Pandas**
 - **scikit-learn**
